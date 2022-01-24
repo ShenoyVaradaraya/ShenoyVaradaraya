@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+World!;I'm+a+learning+developer...;I'm+a+CRAZY+MARVEL+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-- **I am a ***HUGE Office fan***⚡🧙🏻‍♂️**
+- **I am a ***HUGE Office fan***:office::rofl:**
 -  **I'm a hopeful motion planning and control research scientist 👩🏻‍💻**
 -  **I am a true science lover 🔬**
 
