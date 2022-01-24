@@ -1,3 +1,5 @@
+# Hello Everyone! <img src= "https://c.tenor.com/TG5OF7UkLasAAAAM/thanos-infinity.gif" width= "30" height= "30"> <img src= "https://c.tenor.com/niVL6MvLC04AAAAC/amazed-emojis-curious-emojis.gif" width= "30" height= "30">
+
 <img src="https://profile-counter.glitch.me/ShenoyVaradaraya/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/ShenoyVaradaraya.svg?style=social&label=Followers)](https://github.com/ShenoyVaradaraya?tab=followers)
